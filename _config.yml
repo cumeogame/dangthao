@@ -1,0 +1,61 @@
+url: https://cumeogame.github.io/
+baseurl: /dangthao/
+
+# Site settings
+title: Công ty Đăng Thảo
+email: dangthaodh@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: Trần Thị Thu
+  pic: 1
+  position: Giám đốc
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: https://www.facebook.com/dang.thao.375
+    - title: stack-overflow
+      url: #
+
+- name: Đỗ Đăng Trung
+  pic: dangtrung
+  position: Phó giám đốc
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Đỗ Thị Trinh
+  pic: 3
+  position: Phó giám đốc
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: mobile-android
+    url:  tel:0905561567
+  - title: facebook
+    url: https://www.facebook.com/dang.thao.375
+  - title: phone
+    url: 0911650099
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 435 Lê Duẫn
+  - line: Thành phố Đông Hà - Tỉnh Quảng Trị.
+
+# Build settings
+markdown: kramdown
+permalink: pretty
